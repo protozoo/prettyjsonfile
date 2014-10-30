@@ -21,5 +21,12 @@
   "bugs": {
     "url": "https://github.com/protozoo/prettyjsonfile/issues"
   },
-  "homepage": "https://github.com/protozoo/prettyjsonfile"
+  "homepage": "https://github.com/protozoo/prettyjsonfile",
+  "dependencies": {
+    "commander": "^2.5.0"
+  }, 
+  "preferGlobal": "true", 
+  "bin": {
+    "prettyjsonfile": "index.js"
+  }
 }

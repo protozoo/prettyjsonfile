@@ -1,6 +1,6 @@
 {
   "name": "prettyjsonfile",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Command to read a JSON file and prettify it (add indentation and line breaks)",
   "main": "index.js",
   "scripts": {

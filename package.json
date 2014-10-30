@@ -1,0 +1,25 @@
+{
+  "name": "prettyjsonfile",
+  "version": "1.0.0",
+  "description": "Command to read a JSON file and prettify it (add indentation and line breaks)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:protozoo/prettyjsonfile.git"
+  },
+  "keywords": [
+    "node",
+    "json",
+    "pretty",
+    "prettify"
+  ],
+  "author": "Daniel Aguilar <dani@protozoo.com> (http://www.protozoo.com/)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/protozoo/prettyjsonfile/issues"
+  },
+  "homepage": "https://github.com/protozoo/prettyjsonfile"
+}

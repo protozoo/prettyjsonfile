@@ -5,7 +5,7 @@ var path = require('path');
 var program = require('commander');
 
 program
-  .version('1.0.1')
+  .version('1.0.2')
   .option('-f, --file <path>', 'JSON file path')
   .parse(process.argv);
 

@@ -15,7 +15,7 @@ var outputFolder = "pretty";
 
 if( !program.file )
 {
-	console.log( "JSON file path and Output directory required. -h for help");
+	console.log( "JSON file path required. -h for help");
 }else{
 	if( program.file == "all" )
 	{
